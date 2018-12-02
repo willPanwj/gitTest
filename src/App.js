@@ -20,7 +20,7 @@ class App extends Component {
             Learn React
           </a>
           <p>git branch  developer: commit 1</p>
-          {/*<p>git branch developer: commit 2</p>*/}
+          <p>git branch developer: commit 2</p>
         </header>
       </div>
     );
