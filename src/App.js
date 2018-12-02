@@ -23,7 +23,7 @@ class App extends Component {
           <p>git branch master: commit 2</p>
           <p>git branch master: commit 3</p>
           <p>git branch master: commit 4</p>
-          <p>git branch  developer: commit 1</p>
+          <p>git branch developer: commit 1</p>
           <p>git branch developer: commit 2</p>
           <p>git branch developer: commit 3</p>
         </header>
