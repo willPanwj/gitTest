@@ -27,6 +27,7 @@ class App extends Component {
           <p>git branch developer: commit 2</p>
           <p>git branch developer: commit 3</p>
           <p>git branch developer: commit 4</p>
+          <p>git branch developer: commit 5</p>
         </header>
       </div>
     );
