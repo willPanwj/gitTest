@@ -19,6 +19,7 @@ class App extends Component {
           >
             Learn React
           </a>
+          <p>git branch master: commit 1</p>
         </header>
       </div>
     );
