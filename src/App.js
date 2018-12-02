@@ -22,6 +22,7 @@ class App extends Component {
           <p>git branch master: commit 1</p>
           <p>git branch master: commit 2</p>
           <p>git branch master: commit 3</p>
+          <p>git branch master: commit 4</p>
         </header>
       </div>
     );
